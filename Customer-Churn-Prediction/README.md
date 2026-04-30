@@ -100,3 +100,6 @@ Author
 
 Hanan Aladeey
 Data Science | Machine Learning | AI Projects
+## 🌐 Connect With Me
+
+GitHub: https://github.com/7nan6534
